@@ -74,4 +74,4 @@ This project is licensed under the MIT License.
 
 📬 Contact
 
-For any queries, reach out at: your-email@example.com
+For any queries, reach out at: [nutriboxfit123@gmail.com](mailto:nutriboxfit123@gmail.com)
